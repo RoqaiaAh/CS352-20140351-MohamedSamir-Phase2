@@ -1,0 +1,17 @@
+
+Project build error: Non-parseable POM D:\Project2\pom.xml: Duplicated tag: 'groupId' (position: START_TAG seen ...</version>\r\n    \r\n   \t<groupId>... @16:14) 
+
+repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/1.5.2.RELEASE/spring-boot-starter-parent-1.5.2.RELEASE.pom
+
+
+error in test seleinum [error] Element css=#sbse2 > div.sbqs_c not found
+
+[error] Unexpected Exception: Error: Access to 'file:///D:/Test/NewGame.html' from script denied.
+
+
+[error] Element css=#sbse2 > div.sbqs_c not found
+
+ProjectBuildingException thrown by DefaultGraphBuilder.build
+
+Could not calculate build plan: Plugin org.apache.maven.plugins:maven-resources-plugin:2.6 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-resources-plugin:jar:2.6
+Plugin org.apache.maven.plugins:maven-resources-plugin:2.6 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-resources-plugin:jar:2.6
